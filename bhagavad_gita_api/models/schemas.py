@@ -50,7 +50,6 @@ class GitaChapter(BaseGitaModel):
     chapter_number: int
     name_meaning: str
     chapter_summary: str
-    chapter_summary_hindi: str
 
 
 class VerseOfDay(BaseGitaModel):
